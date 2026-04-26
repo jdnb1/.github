@@ -18,5 +18,6 @@ body:
     attributes:
       label: Acceptance Criteria
       description: What must be true for this Story to be Done?
+      placeholder: "- [ ] \n- [ ] "
     validations:
-      required: false
+      required: true
