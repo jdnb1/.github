@@ -1,6 +1,5 @@
 name: Task
 description: Smallest unit of work. Always a sub-issue of a Story or Bug.
-title: "[Task]: "
 type: Task
 projects:
   - "jdnb1/5"

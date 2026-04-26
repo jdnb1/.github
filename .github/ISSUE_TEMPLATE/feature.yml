@@ -1,6 +1,5 @@
 name: Feature
 description: Large work spanning one or more repos.
-title: "[Feature]: "
 type: Feature
 projects:
   - "jdnb1/5"

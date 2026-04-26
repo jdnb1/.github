@@ -1,6 +1,5 @@
 name: Story
 description: User-facing deliverable scoped to one sprint.
-title: "[Story]: "
 type: Story
 projects:
   - "jdnb1/5"
@@ -20,4 +19,4 @@ body:
       description: What must be true for this Story to be Done?
       placeholder: "- [ ] \n- [ ] "
     validations:
-      required: true
+      required: false
