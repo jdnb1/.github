@@ -1,0 +1,21 @@
+name: Feature
+description: Large work spanning one or more repos.
+title: "[Feature]: "
+type: Feature
+projects:
+  - "jdnb1/5"
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What should be true when this Feature is done?
+    validations:
+      required: true
+  - type: textarea
+    id: stories
+    attributes:
+      label: Stories
+      description: List the Stories (sub-issues) that make up this Feature. Link them after creation.
+    validations:
+      required: false
