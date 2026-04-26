@@ -1,0 +1,25 @@
+name: Bug
+description: Something is broken.
+title: "[Bug]: "
+type: Bug
+projects:
+  - "jdnb1/5"
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: false

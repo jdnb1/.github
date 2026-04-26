@@ -1,0 +1,22 @@
+name: Story
+description: User-facing deliverable scoped to one sprint.
+title: "[Story]: "
+type: Story
+projects:
+  - "jdnb1/5"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What does the user need and why?
+      placeholder: "As a [user], I want [goal] so that [reason]."
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: What must be true for this Story to be Done?
+    validations:
+      required: false
