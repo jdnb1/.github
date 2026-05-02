@@ -1,6 +1,7 @@
 name: Task
 description: Smallest unit of work. Always a sub-issue of a Story or Bug.
 type: Task
+assignees: nbarger-jdnb
 projects:
   - "jdnb1/5"
 body:

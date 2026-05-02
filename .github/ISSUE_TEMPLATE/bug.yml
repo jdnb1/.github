@@ -1,6 +1,7 @@
 name: Bug
 description: Something is broken.
 type: Bug
+assignees: nbarger-jdnb
 projects:
   - "jdnb1/5"
 body:

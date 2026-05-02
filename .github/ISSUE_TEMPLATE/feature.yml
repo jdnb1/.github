@@ -1,6 +1,7 @@
 name: Feature
 description: Large work spanning one or more repos.
 type: Feature
+assignees: nbarger-jdnb
 projects:
   - "jdnb1/5"
 body:
