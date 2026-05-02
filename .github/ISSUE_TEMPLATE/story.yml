@@ -1,6 +1,7 @@
 name: Story
 description: User-facing deliverable scoped to one sprint.
 type: Story
+assignees: nbarger-jdnb
 projects:
   - "jdnb1/5"
 body:
